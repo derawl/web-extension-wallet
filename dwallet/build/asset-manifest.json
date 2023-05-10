@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4a0715af.css",
+    "main.js": "/static/js/main.b7322336.js",
+    "static/media/mwallet.png": "/static/media/mwallet.c01b55c403a176df4aa2.png",
+    "static/media/noImg.png": "/static/media/noImg.c8524b4819bc2c88e490.png",
+    "static/media/moralisLogo.svg": "/static/media/moralisLogo.c431bbc669cc5d8a52449e96770be948.svg",
+    "index.html": "/index.html",
+    "main.4a0715af.css.map": "/static/css/main.4a0715af.css.map",
+    "main.b7322336.js.map": "/static/js/main.b7322336.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a0715af.css",
+    "static/js/main.b7322336.js"
+  ]
+}
